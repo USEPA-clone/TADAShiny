@@ -24,3 +24,12 @@ _snaps
 
 # Trip's testing file
 flagged.csv
+
+# Big stuff that gets swept in
+vendor_r/
+r-lib/
+lib/
+inst/
+r-bin/
+shiny-app/
+
